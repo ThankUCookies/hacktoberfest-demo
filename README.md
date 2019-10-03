@@ -1,2 +1,2 @@
 # hacktoberfest-demo
-A demp app for hacktoberfest
+A demo app for hacktoberfest
